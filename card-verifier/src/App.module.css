@@ -1,0 +1,28 @@
+.app-text-center {
+  text-align: center;
+}
+
+.bg-color-blue{
+  background-color: blue;
+}
+
+.color-white{
+  color: white;
+}
+
+.text-size-large{
+  font-size: 40px;
+}
+
+.width-100p{
+  width: 100%;
+  max-width: 100%;
+}
+
+.paddingTop1p{
+padding-top: 1%;
+}
+
+.paddingLeft{
+  padding-right: 1%;
+}
